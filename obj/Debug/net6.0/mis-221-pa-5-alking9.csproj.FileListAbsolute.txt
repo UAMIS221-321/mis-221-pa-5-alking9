@@ -1,0 +1,15 @@
+C:\Users\ajkin\OneDrive\Documents\source\repos\mis 221\mis-221-pa-5-alking9\bin\Debug\net6.0\mis-221-pa-5-alking9.exe
+C:\Users\ajkin\OneDrive\Documents\source\repos\mis 221\mis-221-pa-5-alking9\bin\Debug\net6.0\mis-221-pa-5-alking9.deps.json
+C:\Users\ajkin\OneDrive\Documents\source\repos\mis 221\mis-221-pa-5-alking9\bin\Debug\net6.0\mis-221-pa-5-alking9.runtimeconfig.json
+C:\Users\ajkin\OneDrive\Documents\source\repos\mis 221\mis-221-pa-5-alking9\bin\Debug\net6.0\mis-221-pa-5-alking9.dll
+C:\Users\ajkin\OneDrive\Documents\source\repos\mis 221\mis-221-pa-5-alking9\obj\Debug\net6.0\mis-221-pa-5-alking9.csproj.AssemblyReference.cache
+C:\Users\ajkin\OneDrive\Documents\source\repos\mis 221\mis-221-pa-5-alking9\obj\Debug\net6.0\mis-221-pa-5-alking9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajkin\OneDrive\Documents\source\repos\mis 221\mis-221-pa-5-alking9\obj\Debug\net6.0\mis-221-pa-5-alking9.AssemblyInfoInputs.cache
+C:\Users\ajkin\OneDrive\Documents\source\repos\mis 221\mis-221-pa-5-alking9\obj\Debug\net6.0\mis-221-pa-5-alking9.AssemblyInfo.cs
+C:\Users\ajkin\OneDrive\Documents\source\repos\mis 221\mis-221-pa-5-alking9\obj\Debug\net6.0\mis-221-pa-5-alking9.csproj.CoreCompileInputs.cache
+C:\Users\ajkin\OneDrive\Documents\source\repos\mis 221\mis-221-pa-5-alking9\obj\Debug\net6.0\mis-221-pa-5-alking9.dll
+C:\Users\ajkin\OneDrive\Documents\source\repos\mis 221\mis-221-pa-5-alking9\obj\Debug\net6.0\refint\mis-221-pa-5-alking9.dll
+C:\Users\ajkin\OneDrive\Documents\source\repos\mis 221\mis-221-pa-5-alking9\obj\Debug\net6.0\mis-221-pa-5-alking9.pdb
+C:\Users\ajkin\OneDrive\Documents\source\repos\mis 221\mis-221-pa-5-alking9\obj\Debug\net6.0\mis-221-pa-5-alking9.genruntimeconfig.cache
+C:\Users\ajkin\OneDrive\Documents\source\repos\mis 221\mis-221-pa-5-alking9\bin\Debug\net6.0\mis-221-pa-5-alking9.pdb
+C:\Users\ajkin\OneDrive\Documents\source\repos\mis 221\mis-221-pa-5-alking9\obj\Debug\net6.0\ref\mis-221-pa-5-alking9.dll
